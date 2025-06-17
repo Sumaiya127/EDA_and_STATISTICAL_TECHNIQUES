@@ -1,33 +1,38 @@
-# EDA_and_STATISTICAL_TECHNIQUES
-This repository contains a variety of Data Visualization methods and essential Statistical tools.
+# 📊 EDA and Statistical Techniques
 
-This repository is a beginner-friendly guide to performing EXPLORATORY DATA ANALYSIS (EDA) and applying fundamental STATISTICAL TECHNIQUES using Python. It is designed to help data science learners understand how to extract insights from data visually and statistically.
+This repository contains a variety of DATA VISUALIZATION METHODS and essential STATISTICAL TOOLS.
 
+It is a beginner-friendly guide to performing EXPLORATORY DATA ANALYSIS and applying fundamental STATISTICAL TECHNIQUES using Python. It is designed to help data science learners understand how to extract insights from data visually and statistically.
 
-## WHAT YOU WILL LEARN :
+---
 
- ##DATA VISUALIZATION TECHNIQUES
-  -Line Plot
-  -Histogram
-  -Scatter Plot
-  -Bar chart
-  -Pie Chart
-  -Count Plot
-  -Pair Plot
-  -HistPlot
-  -Box Plot
-  -Heat Map
+## 📌 What You Will Learn
 
->>TOOLS Used: Matplotlib,Seaborn,Numpy
+### 🖼️ Data Visualization Techniques
+- Line Plot  
+- Histogram  
+- Scatter Plot  
+- Bar Chart  
+- Pie Chart  
+- Count Plot  
+- Pair Plot  
+- HistPlot  
+- Box Plot  
+- Heat Map  
 
-##STATISTICAL CONCEPTS
+**Tools Used: Matplotlib, Seaborn, Numpy
 
- -Measure Of Central Tendency(Mean,Median,Mode)
- -Hypothesis Testing
- -Outlier Detection (Z-test and IQR Test)
+---
 
- >>TOOLS USED: Numpy,Pandas,Scipy,Seaborn
+### 📉 Statistical Concepts
+- Measures of Central Tendency (Mean, Median, Mode)  
+- Hypothesis Testing  
+- Outlier Detection (Z-test and IQR Test)
 
-## AUTHOR
+**Tools Used: Numpy, Pandas, Scipy, Seaborn
 
- -Sumaiya Irshad
+---
+
+## 👩‍💻 Author
+
+-Sumaiya Irshad
